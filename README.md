@@ -1,12 +1,3 @@
-LLM Workshop - Session 2:
-
-Getting Started Guide
-
-Revision 4
-
-Last updated: January, 2025
-
-
 # Introduction
 
 In this workshop we will be learning how to set up a RAG application to process instruction PDF files and interact with the chat application.
